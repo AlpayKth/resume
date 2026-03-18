@@ -12,7 +12,7 @@
             <td width="30%" valign="top">
 
             
-                <img src="alpay.jpg" alt="Keith Alpay" width="150"><br><br>
+                <img src="alpay" alt="Keith Alpay" width="150"><br><br>
 
                 <h2>PROFILE</h2>
                 <p>
